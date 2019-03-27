@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553530137 source:d:\year1-term2\computer fundamentals\digitalcompfundproject\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdbool.h>
+	<math.h>
+
